@@ -1,0 +1,23 @@
+{
+  "name": "ajs-homeworks-git-project",
+  "version": "1.0.0",
+  "description": "\"git project\"",
+  "keywords": [
+    "project"
+  ],
+  "homepage": "https://github.com/Nikolay87-ru/ajs-homeworks-git-project#readme",
+  "bugs": {
+    "url": "https://github.com/Nikolay87-ru/ajs-homeworks-git-project/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nikolay87-ru/ajs-homeworks-git-project.git"
+  },
+  "license": "ISC",
+  "author": "Nikolay87-ru",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
